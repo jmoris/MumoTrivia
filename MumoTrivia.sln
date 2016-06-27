@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{373ADBF2-446B-1B33-8420-7C15129D4532}") = "MumoTrivia", "Assembly-CSharp.csproj", "{3B660488-9AC9-B347-C704-B79E47E75435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B660488-9AC9-B347-C704-B79E47E75435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B660488-9AC9-B347-C704-B79E47E75435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B660488-9AC9-B347-C704-B79E47E75435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B660488-9AC9-B347-C704-B79E47E75435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
